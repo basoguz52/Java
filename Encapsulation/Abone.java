@@ -33,5 +33,5 @@ public class Abone {
     public void bakiye_ogren() {
         System.out.println("Bakiyeniz: " + bakiye);
     }
-    
+   
 }
