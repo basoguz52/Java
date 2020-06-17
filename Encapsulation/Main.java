@@ -16,6 +16,4 @@ public class Main
     abone.bakiye_ogren();
     
 	}
-	
-	
 }
