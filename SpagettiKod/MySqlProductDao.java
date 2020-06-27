@@ -1,4 +1,4 @@
-public class 
+public class MySqlProductDao
 {
     private String connectionString;
     
